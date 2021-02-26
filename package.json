@@ -9,6 +9,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
+    "styled-components": "^5.2.1",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
@@ -39,6 +40,7 @@
   },
   "devDependencies": {
     "@storybook/addon-actions": "^6.1.20",
+    "@storybook/addon-controls": "^6.1.20",
     "@storybook/addon-essentials": "^6.1.20",
     "@storybook/addon-links": "^6.1.20",
     "@storybook/node-logger": "^6.1.20",
